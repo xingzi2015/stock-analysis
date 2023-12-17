@@ -39,11 +39,12 @@
 3. 安装依赖执行脚本：
 
 在终端中执行以下命令：
-    ```bash
+
+   ```bash
     pip install requests json openpyxl
-    
     python fin.py
-    ```
+   ```
+   
 脚本将开始解析财务数据。
 
 ## 注意事项
